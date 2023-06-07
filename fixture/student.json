@@ -1,0 +1,1 @@
+[{"model": "student.student", "pk": 1, "fields": {"create_time": "2023-06-07T13:40:23.741Z", "update_time": "2023-06-07T13:40:23.741Z", "is_active": true, "name": "Azimjon", "surname": "Mayusupov", "email": "azimausupov@gmail.com"}}]

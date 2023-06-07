@@ -1,0 +1,1 @@
+[{"model": "course.course", "pk": 1, "fields": {"create_time": "2023-06-07T13:31:34.809Z", "update_time": "2023-06-07T13:40:43.488Z", "is_active": true, "title": "Python", "description": "Python Programming Level", "duration": 3}}]

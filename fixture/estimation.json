@@ -1,0 +1,1 @@
+[{"model": "estimation.estimation", "pk": 2, "fields": {"create_time": "2023-06-07T14:00:46.912Z", "update_time": "2023-06-07T14:00:46.912Z", "estimation": 10, "course": 1, "student": 1}}]
